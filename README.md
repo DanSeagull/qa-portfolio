@@ -1,5 +1,7 @@
 # QA Portfolio | Daniil Chaykin
+
 ![API tests](https://github.com/DanSeagull/qa-portfolio/actions/workflows/api-tests.yml/badge.svg)
+
 Fullstack QA Engineer with 5+ years of experience in full-cycle testing: manual testing of web and mobile apps (iOS, Android), API test automation in Python, SQL data checks, CI and reporting.
 
 > **About the examples.** Everything in this repository is a demonstration built on a fictional shopping app ("DemoShop") and a public demo API. It contains no data, screenshots, code or internal details from any employer or client.
